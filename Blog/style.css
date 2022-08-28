@@ -1,0 +1,13 @@
+textarea {
+    resize: none;
+}
+
+button[type=submit] {
+    margin-top: 1.5rem !important;
+}
+
+input[class=edit] {
+    border: none;
+    background-color: transparent;
+    width: -webkit-fill-available;
+}
